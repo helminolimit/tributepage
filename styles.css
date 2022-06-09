@@ -1,0 +1,30 @@
+#image{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption{
+  text-align: center
+}
+
+*{
+  background: #F9E0C2; 
+}
+
+h1{
+  text-align: center;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #F9E0C2 ;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
